@@ -4,7 +4,6 @@ A creative pixel canvas web application. Draw, create, and express yourself with
 
 ## 📸 Screenshot
 
-![Pixel Canvas App Repository](./pixel-canvas-app.png)
 
 **Start drawing:** Open `index.html` in any modern browser or run `npm start` after installing dependencies.
 
